@@ -679,7 +679,10 @@ $btn-mb: 0.5rem;
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  background: var(--sidebar-bg);
+  // background: var(--sidebar-bg);
+  background: url('/assets/img/side-bg/side-bg.jpeg');
+  background-size: 100% 100%;
+  background-position: center;
   border-right: 1px solid var(--sidebar-border-color);
 
   /* Hide scrollbar for Chrome, Safari and Opera */
@@ -729,7 +732,7 @@ $btn-mb: 0.5rem;
 
   .site-title {
     font-family: inherit;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 1.75rem;
     line-height: 1.2;
     letter-spacing: 0.25px;
