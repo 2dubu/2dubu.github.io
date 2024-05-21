@@ -120,7 +120,7 @@ comments: giscus
     repo: 2dubu/2dubu.github.io
     repo_id: R_kgDOL-Z-fA
     category: General
-    category_id: DIC_kwDOL-Z-fM4Cfge3
+    category_id: DIC_kwDOL-Z-fM4Cfge4
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
