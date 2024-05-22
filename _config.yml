@@ -19,7 +19,7 @@ title: 2dubu # the main title
 tagline: Turn your ideas into reality # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Write down what I learned and felt.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: c6fgxhzDlGZ1XXnvTTPe0THWAaiKSji_olI5A4NOdBU
+  google: -0xkaSszLTckBjTLuNOxWLuPl-x5h8-WzgKy8atAu3Q
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-D9ZLY8F91E
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
