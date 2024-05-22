@@ -233,13 +233,11 @@ jekyll_compose:
       description:
       image:
       pin:
-      author:
       category:
       tags:
     posts:
       description:
       image:
       pin:
-      author:
       category:
       tags:
