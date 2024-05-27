@@ -227,7 +227,7 @@ jekyll-archives:
     category: /categories/:name/
 
 jekyll_compose:
-  auto_open: true
+  auto_open: false
   default_front_matter:
     drafts:
       description:
