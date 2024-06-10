@@ -81,17 +81,19 @@ jekyll_compose:
       category:
       tags:
 ```
-auto_open 기능이 제대로 동작하기 위해서는 게시글 작성에 사용할 에디터를 설정해줘야 합니다. 저는 auto_open 기능을 꺼두었지만, 설정 방법은 다음과 같습니다.
+auto_open 기능이 제대로 동작하기 위해서는 게시글 작성에 사용할 에디터를 설정해줘야 합니다. 저는 `auto_open` 기능을 꺼두었지만, 설정을 원한다면 설정 방법은 다음과 같습니다.
 
 ```console
 $  vi ~/.zshrc
 ```
 
-다음 코드를 추가해줍니다.
+자동으로 열릴 에디터를 설정해주는 다음 코드를 추가해줍니다.
 
 ```shell
 export JEKYLL_EDITOR=code # 사용하는 에디터를 설정합니다
 ```
+
+바뀐 쉘 설정을 적용시킵니다.
 
 ```console
 $ source ~/.zshrc
@@ -106,7 +108,7 @@ $ source ~/.zshrc
 
 ## 파일 생성
 
-이제 아래의 명령어를 통해 설정한 형태로 글의 초안 markdown 파일을 자동으로 생성할 수 있다.
+이제 아래의 명령어를 통해 설정한 형태로 글의 초안 markdown 파일을 자동으로 생성할 수 있습니다.
 
 ```console
 $ bundle exec jekyll post "post title"
