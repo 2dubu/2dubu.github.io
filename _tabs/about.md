@@ -12,12 +12,13 @@ order: 4
 
 ## Career
 
-- **SEFY Ltd iOS Developer** 2022.08 ~ 2022.12
+- **Sefy Ltd iOS Developer** 2022.08 ~ 2022.12
 - **(주)라임프렌즈 iOS Developer Intern** 2022.05 ~ 2022.08
 
 ## Activity
 
-- **GDG on Campus: KHU Core Member** (Mobile Part Lead)
+- **GDG on Campus: KHU Core Member** (Mobile Part Lead) 2024.09 ~ 2025.09
+- **경희대학교 컴퓨터공학과 학술동아리 N.E.T 교육부장** 2024.09 ~ 2024.12
 
 ## Prize
 
@@ -33,6 +34,6 @@ order: 4
 
 ## Certification
 
-- **매경테스트 우수** 2023.07
+- **매경TEST 우수** 2023.07
 - **SMAT Service Management Consultant Rank 1** 2023.06
 - **정보처리기능사** 2023.04
