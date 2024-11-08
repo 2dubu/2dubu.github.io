@@ -5,7 +5,7 @@ date: 2024-11-08 10:12 +0900
 description: SwiftData와 친해져봅시다.
 image: /assets/img/posts/20241108/SCR-20241108-jjad.png
 pin: 
-category: [SwiftUI, SwiftData]
+category: [iOS, SwiftUI]
 tags: [SwiftUI, SwiftData, WWDC2023]
 ---
 
